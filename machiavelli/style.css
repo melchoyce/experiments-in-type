@@ -1,6 +1,9 @@
 body {
 	background: #eee9e5 url('bg.png') repeat;
 	font: 400 16px/1.5 "maiola", serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
 	color: rgba(66,59,58,.95);
 }
 
