@@ -1,6 +1,6 @@
 body {
 	background: #eee9e5 url('bg.png') repeat;
-	font: 16px/1.5 "maiola", serif;
+	font: 400 16px/1.5 "maiola", serif;
 	color: rgba(66,59,58,.95);
 }
 
@@ -10,7 +10,7 @@ blockquote {
 }
 
 blockquote h1 {
-	font: 4.5em/1.11 bold "maiola", serif;
+	font: bold 4.5em/1.11 "maiola", serif;
 	font-style: italic;
 }
 
