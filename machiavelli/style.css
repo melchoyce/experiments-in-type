@@ -1,0 +1,24 @@
+body {
+	background: #eee9e5 url('bg.png') repeat;
+	font: 16px/1.5 "maiola", serif;
+	color: rgba(66,59,58,.95);
+}
+
+blockquote {
+	margin: 10% auto 0;
+	max-width: 75%;
+}
+
+blockquote h1 {
+	font: 4.5em/1.11 bold;
+	font-style: italic;
+}
+
+blockquote footer {
+	margin-left: -4.5%;
+	font-size: 2.25em;
+}
+
+blockquote footer cite {
+	font-style: normal;
+}
