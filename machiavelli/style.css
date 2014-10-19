@@ -15,8 +15,8 @@ blockquote h1 {
 }
 
 blockquote footer {
-	margin-left: -4.5%;
 	font-size: 2.25em;
+	text-indent: -4.5%;
 }
 
 blockquote footer cite {
