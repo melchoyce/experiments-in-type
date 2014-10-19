@@ -1,0 +1,28 @@
+body {
+	background: #eee9e5 url('bg.png') repeat;
+	font: 400 16px/1.5 "maiola", serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
+	color: rgba(66,59,58,.95);
+}
+
+blockquote {
+	margin: 10% auto 0;
+	max-width: 65%;
+}
+
+blockquote h1 {
+	font: bold 4.5em/1.11 "maiola", serif;
+	font-style: italic;
+}
+
+blockquote footer {
+	font-size: 2.25em;
+	text-indent: -4.5%;
+	color: rgba(113, 107, 106, 0.95);
+}
+
+blockquote footer cite {
+	font-style: normal;
+}
