@@ -10,7 +10,7 @@ blockquote {
 }
 
 blockquote h1 {
-	font: 4.5em/1.11 bold;
+	font: 4.5em/1.11 bold "maiola", serif;
 	font-style: italic;
 }
 
