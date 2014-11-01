@@ -1,13 +1,17 @@
 body {
 	background: #5b5757;
-	font: 400 16px/1.4 "adobe-jenson-pro",serif;
+	font: 400 16px/1.4 "adobe-jenson-pro", serif;
 	text-rendering: optimizeLegibility;
-	color: rgba(255,255,255,.9);
+	color: #ecf2f6;
 }
 
 .container {
-	margin: 4em auto 0;
+	margin: 5em auto 0;
 	max-width: 45%;
+}
+
+h1 {
+	margin-bottom: 1em;
 }
 
 ol {
@@ -23,5 +27,5 @@ li {
 }
 
 a {
-	color: rgba(255,255,255,.9);
+	color: #d1dce5;
 }
