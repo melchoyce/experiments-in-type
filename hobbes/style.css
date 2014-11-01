@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: #e7e8ea;
+	font: 400 16px/1.411 "adobe-caslon-pro", serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
+	font-feature-settings: "liga", "dlig";
+	color: #595252;
+}
+
+blockquote {
+	position: relative;
+	top: 45%;
+	transform: translateY(-45%);
+	margin: 0 auto inherit;
+	max-width: 38%;
+}
+
+blockquote h1 {
+	margin: 0 0 .75em 0;
+	font-size: 1em;
+	font-weight: 600;
+	font-style: italic;
+	text-indent: -1.2%;
+}
+
+blockquote footer {
+	font-size: .6875em;
+	text-indent: -3.3%;
+	text-transform: uppercase;
+	color: #687a9e;
+}
+
+blockquote footer cite {
+	font-weight: 600;
+}
+
+blockquote footer cite em {
+	font-weight: 700;
+}
