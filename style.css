@@ -1,6 +1,6 @@
 body {
 	background: #5b5757;
-	font: 400 16px/1.4 "adobe-jenson-pro", serif;
+	font: 200 18px/1.4 "adobe-jenson-pro", serif;
 	text-rendering: optimizeLegibility;
 	color: #ecf2f6;
 }
@@ -12,6 +12,7 @@ body {
 
 h1 {
 	margin-bottom: 1em;
+	font-weight: 600;
 }
 
 ol {
