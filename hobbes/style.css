@@ -35,13 +35,14 @@ blockquote h1 {
 
 blockquote footer {
 	font-size: .6875em;
-	text-indent: -3.3%;
+	text-indent: -3%;
 	text-transform: uppercase;
 	color: #687a9e;
 }
 
 blockquote footer cite {
 	font-weight: 600;
+	font-style: normal;
 }
 
 blockquote footer cite em {
