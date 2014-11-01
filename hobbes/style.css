@@ -12,6 +12,8 @@ body {
 	-webkit-font-variant-ligatures: common-ligatures;
 	font-variant-ligatures: common-ligatures;
 	font-feature-settings: "liga", "dlig";
+	-webkit-font-feature-settings: "liga", "dlig";
+	-moz-font-feature-settings: "liga=1, dlig=1";
 	color: #595252;
 }
 
