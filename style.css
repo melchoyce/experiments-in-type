@@ -29,4 +29,9 @@ li {
 
 a {
 	color: #d1dce5;
+	transition: color .15s ease-in-out;
+}
+
+a:hover {
+	color: #bcc7d0;
 }
