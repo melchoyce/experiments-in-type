@@ -1,0 +1,44 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: #484242;
+	font: 400 16px/1.5 "maiola", serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
+	color: #b7a8a6;
+}
+
+blockquote {
+	position: relative;
+	top: 45%;
+	transform: translateY(-45%);
+	margin: -5% auto inherit;
+	max-width: 75%;
+}
+
+blockquote h1 {
+	font: normal 3.438em/1.18 "maiola", serif;
+	text-indent: -3px;
+}
+
+blockquote footer {
+	font-size: 1.5em;
+	font-variant: small-caps;
+	letter-spacing: .02em;
+	text-indent: -3.1%;
+	color: #98908e;
+}
+
+blockquote footer cite {
+	font-style: normal;
+}
+
+blockquote em {
+	font-weight: bold;
+}
